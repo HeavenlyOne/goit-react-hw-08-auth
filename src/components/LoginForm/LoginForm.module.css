@@ -1,0 +1,22 @@
+.form {
+  width: 320px;
+  border: none;
+}
+
+/* .label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+} */
+
+.field {
+    height: 26px;
+    margin-bottom: 16px;
+}
+
+.loginBtn {
+    align-self: center;
+    width: 200px;
+    border: 1px solid black;
+
+}

@@ -1,0 +1,13 @@
+/* .navContainer {
+
+} */
+
+.wellcome {
+    display: inline;
+    font-weight: 700;
+    margin-right: 30px;
+}
+
+.logoutBtn {
+    border: 1px solid black;
+}

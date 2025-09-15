@@ -1,0 +1,15 @@
+.formContainer {
+    display: inline-flex;
+    flex-direction: column;
+    /* align-content: space-around; */
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.fieldInput {
+    margin-bottom: 15px;
+}
+
+.errors {
+    color: red;
+}

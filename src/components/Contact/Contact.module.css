@@ -1,0 +1,15 @@
+.contactBlock {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.contact {
+  margin-right: 16px;
+}
+
+.dbPlace {
+    display: flex;
+}
+.deleteButton {
+    align-self: center;
+}

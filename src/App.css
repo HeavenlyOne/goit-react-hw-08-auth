@@ -1,0 +1,12 @@
+form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+
+.container {
+display: inline-flex;
+flex-direction: column;
+}

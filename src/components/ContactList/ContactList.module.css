@@ -1,0 +1,22 @@
+.contactList {
+    display: flex;
+    
+    padding-left: 0;
+
+}
+
+.contact {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 8px;
+    margin-right: 10px;
+    
+    
+    
+}
+
+/* .deleteButton {
+    width: 48px;
+    height: 24px;
+} */
